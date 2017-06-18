@@ -42,7 +42,7 @@ html{
   background-color: black;
   font-weight: bold;
   color: white;
-  padding: 2rem auto auto 3rem;
+  padding: 2rem inherit inherit 3rem;
   margin-top: 9rem;
   width: 20rem;
 }
