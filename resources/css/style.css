@@ -53,3 +53,10 @@ html{
 .arrival{
   font-size: 2rem;
 }
+
+.navigation{
+  display: flex;
+  justify-content: space-around;
+  padding: .75rem 0;
+  background-color: firebrick;
+}
