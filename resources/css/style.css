@@ -82,6 +82,13 @@ html{
   padding-top: 2rem;
   width: 30%;
 }
+
+img{
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+  height: 9rem;
+  padding-bottom: 2rem;
 }
 
 p{
