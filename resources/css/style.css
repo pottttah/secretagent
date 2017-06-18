@@ -14,6 +14,7 @@ html{
 .header{
   display:flex;
   align-items: center;
+  width: 960px;
   padding: .66rem 0;
   background-color: black
 }
