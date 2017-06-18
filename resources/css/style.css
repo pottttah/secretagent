@@ -32,6 +32,8 @@ html{
 
 .banner{
   background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-5/moto.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
   height: 25rem;
   width: 100%;
 }
