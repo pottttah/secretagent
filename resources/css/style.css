@@ -29,3 +29,25 @@ html{
   font-size: 1rem;
   color: white;
 }
+
+.banner{
+  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-5/moto.jpeg);
+  height: 25rem;
+}
+
+.new-arrival{
+  background-color: black;
+  font-weight: bold;
+  color: white;
+  padding: 2rem 3rem auto auto;
+  margin-top: 9rem;
+  width: 20rem;
+}
+
+.new{
+  font-size: 1rem;
+}
+
+.arrival{
+  font-size: 2rem;
+}
