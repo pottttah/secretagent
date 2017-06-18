@@ -1,0 +1,24 @@
+html{
+  font-size: 18px;
+  font-family: Helvetica;
+}
+
+.content{
+  width: 960px;
+}
+
+.header{
+  display:flex;
+  margin: .66rem 0;
+  background-color: black
+}
+
+.logo{
+  height: 1.5rem;
+  margin-left: .5rem;
+  margin-right: 1rem;
+}
+
+.title{
+  font-size: 1rem;
+}
