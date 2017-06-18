@@ -3,30 +3,27 @@ html{
   font-family: Helvetica;
 }
 
-.content{
+.container{
   width: 960px;
+  margin: 0 auto;
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
 }
 
-.header{
+header{
+  background-color: black;
   display:flex;
   align-items: center;
-  width: 960px;
-  padding: .66rem 0;
-  background-color: black
+
 }
 
-.logo img{
+#logo{
   align-items: center;
   height: 1.5rem;
   padding-left: .5rem;
   padding-right: 1rem;
 }
 
-.title{
+#title{
   font-size: 1rem;
   color: white;
 }
