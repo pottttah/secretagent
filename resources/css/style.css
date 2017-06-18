@@ -81,6 +81,9 @@ html{
 }
 
 img{
+  display: flex;
+  justify-content: center;
+  align-items: center;
   height: 9rem;
   padding-bottom: 2rem;
 }
@@ -92,4 +95,16 @@ p{
   padding-top: .5rem;
   padding-bottom: .5rem;
   background-color: black;
+  color: white;
+}
+
+.loc-hours{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  padding-left: 2rem;
+  background-color: black;
+  color: white;
 }
