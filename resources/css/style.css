@@ -90,7 +90,7 @@ img{
   justify-content: center;
   align-items: stretch;
   height: 9rem;
-  max-width: 9rem;
+  max-width: auto;
   padding-bottom: 2rem;
 }
 
