@@ -121,3 +121,11 @@ p{
   color: black;
   align-items: left;
 }
+
+.footer{
+  display: flex;
+  align-items: center;
+  text-align: left;
+  height: 5rem;
+  background-color: black;
+}
